@@ -1,0 +1,8 @@
+numpy
+pandas
+transformers
+openai
+python-dotenv
+unidecode
+accelerate
+scikit-learn
